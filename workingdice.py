@@ -1,5 +1,10 @@
 from random import randint
 from microbit import *
+# Microbit Dice 
+# Version 1.0
+# Display a random number in a dice format on
+# the bbc microbit LED pixel grid
+# Code ported from Pi Minecraft Rolldice.py
 
 # A 5x5 layout of pixels for each dice face
 # from our Pi Minecraft example
